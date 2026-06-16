@@ -20,6 +20,10 @@ The main public portfolio page for this lane is:
 
 - [Institutional Market Data Engine](https://www.michaelspanico.com/projects/institutional-market-data-engine)
 
+The lightweight GitHub Pages landing page for this hub is:
+
+- [Market & Quant Analytics Lab Pages](https://mp2123.github.io/Market-Quant-Analytics-Lab-Docs/)
+
 ## Ecosystem Map
 
 | Public surface | Role in the ecosystem | Public link |
