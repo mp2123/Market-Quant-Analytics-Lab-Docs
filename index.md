@@ -9,6 +9,12 @@ Start here:
 - [Market Data Dashboard Docs](https://github.com/mp2123/Market-Data-Dashboard-Docs)
 - [QuantStrat ML Docs](https://github.com/mp2123/QuantStrat-ML-Docs)
 
+## Recruiter Brief
+
+This hub organizes one lane of Michael's public proof: Python market-data ingestion, SQLite-backed local data organization, dashboard review, source-governance discipline, expected-move and volatility research, and quant-adjacent validation work.
+
+The point is not to claim a live trading platform. The point is to show practical financial-data curiosity, analytics engineering habits, dashboard judgment, and careful separation between public documentation and private runtime state.
+
 ## What This Hub Is
 
 This is a navigation and boundary layer. It explains how the public proof shells fit together while keeping implementation repos, credentials, local databases, production runtime state, and account-specific records private.

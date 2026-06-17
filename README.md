@@ -82,6 +82,13 @@ This hub does not claim that Michael operates a public live trading system, brok
 
 ## GitHub Pages Decision
 
-This hub is Pages-ready but still Markdown-first.
+This hub is live on GitHub Pages and intentionally remains Markdown-first.
 
-The root `index.md` gives GitHub Pages a simple entry point if Pages is enabled later. There is no custom build, no generated static site, and no duplicate private content. The portfolio website remains the primary polished public web surface; Pages would only provide a lightweight docs landing page for the market / quant proof shells.
+The root `index.md` gives GitHub Pages a clean entry point without adding a custom static-site build, theme complexity, or duplicate private content. The portfolio website remains the primary polished recruiter-facing web surface; this Pages site is the second-layer docs map for market-data, financial-data, and quant-adjacent proof shells.
+
+This structure is deliberate:
+
+- GitHub README files stay useful inside the repo.
+- GitHub Pages gives recruiters a cleaner read-only docs landing page.
+- The portfolio remains the main brand surface.
+- Private implementation and runtime materials stay out of the public layer.
