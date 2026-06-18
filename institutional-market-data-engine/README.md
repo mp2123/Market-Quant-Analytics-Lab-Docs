@@ -9,7 +9,7 @@ It represents a private Python, SQLite, and Streamlit workspace for market-data 
 - Shows data-ingestion and normalization judgment.
 - Shows local relational storage discipline.
 - Shows how market-data dashboards can support human review.
-- Anchors the portfolio project's public title and recruiter-facing language.
+- Anchors the portfolio project's public title and public-facing language.
 
 ## Public Link
 
@@ -20,6 +20,6 @@ It represents a private Python, SQLite, and Streamlit workspace for market-data 
 
 The implementation repo, runtime databases, OAuth tokens, `.env` files, local watchlists, broker/API state, and account-specific artifacts remain private.
 
-## Interview Framing
+## Professional Relevance
 
-Use this as financial-data / market-data analyst proof: Python ingestion, SQLite structure, dashboard review, privacy boundaries, and validation discipline.
+This section demonstrates financial-data and market-data analytics proof through Python ingestion, SQLite structure, dashboard review, privacy boundaries, and validation discipline.

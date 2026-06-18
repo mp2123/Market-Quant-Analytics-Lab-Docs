@@ -4,7 +4,7 @@ Public-safe navigation hub for Michael Panico's market-data, financial-data, and
 
 This repository does not publish private source code. It explains how the public documentation shells fit together while keeping implementation repos, OAuth tokens, broker/API state, SQLite databases, watchlists, Discord/n8n/TradingView state, and production experiments private.
 
-## Recruiter Snapshot
+## Professional Snapshot
 
 The market / quant analytics lane demonstrates:
 
@@ -31,8 +31,8 @@ The lightweight GitHub Pages landing page for this hub is:
 | Institutional Market Data Engine Docs | Primary market-data engineering proof shell: ingestion, SQLite storage, dashboard review, and public/private boundary. | [Open repo](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs) |
 | Market Data Dashboard Docs | Dashboard and source-governance proof shell: Streamlit review, market-data observability, validation boundaries, and private runtime separation. | [Open repo](https://github.com/mp2123/Market-Data-Dashboard-Docs) |
 | QuantStrat ML Docs | Research and validation proof shell: backtesting, options/volatility analytics, expected-move research, no-lookahead discipline, and model evaluation boundaries. | [Open repo](https://github.com/mp2123/QuantStrat-ML-Docs) |
-| Portfolio Website Docs | Public docs shell for the private portfolio implementation and recruiter-facing website architecture. | [Open repo](https://github.com/mp2123/Portfolio-Website-Docs) |
-| Live portfolio | Recruiter-facing narrative layer that explains the projects without exposing private implementation details. | [Open site](https://www.michaelspanico.com/projects/institutional-market-data-engine) |
+| Portfolio Website Docs | Public docs shell for the private portfolio implementation and public-facing website architecture. | [Open repo](https://github.com/mp2123/Portfolio-Website-Docs) |
+| Live portfolio | Public-facing narrative layer that explains the projects without exposing private implementation details. | [Open site](https://www.michaelspanico.com/projects/institutional-market-data-engine) |
 
 ## Sanitized Internal Source-Lineage Map
 
@@ -44,7 +44,7 @@ The private local ecosystem uses a clearer internal structure than the public Gi
 | ML Research Lab | Private QuantStrat ML research workspace for backtesting, expected-move, volatility, and validation artifacts. | Public summary lives in [QuantStrat ML Docs](https://github.com/mp2123/QuantStrat-ML-Docs). |
 | Schwab / Market-Data Ingestion | Private ingestion workspace for authorized market-data access and local storage. | Public summary lives in [Institutional Market Data Engine Docs](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs). |
 | Streamlit Dashboard | Private market-data dashboard and review workspace. | Public summary lives in [Market Data Dashboard Docs](https://github.com/mp2123/Market-Data-Dashboard-Docs). |
-| Public Documentation | Public docs-shell layer for recruiter-safe review. | This hub links the public docs shells together. |
+| Public Documentation | Public docs-shell layer for public-safe review. | This hub links the public docs shells together. |
 | MacOS Automations | Local LaunchAgent/monitoring/support automation around private runtime workflows. | Not public proof; mention only as private runtime state. |
 
 ## Private Boundary
@@ -60,11 +60,11 @@ The following are intentionally not public:
 
 ## What This Hub Does Not Claim
 
-This hub does not claim that Michael operates a public live trading system, broker automation platform, professional quant production stack, or institutional trading desk. It documents market-data analytics, dashboarding, validation discipline, and quant-adjacent research proof in a recruiter-safe way.
+This hub does not claim that Michael operates a public live trading system, broker automation platform, professional quant production stack, or institutional trading desk. It documents market-data analytics, dashboarding, validation discipline, and quant-adjacent research proof in a public-safe way.
 
 ## Suggested Reading Path
 
-1. Start with the [portfolio project page](https://www.michaelspanico.com/projects/institutional-market-data-engine) for the recruiter narrative.
+1. Start with the [portfolio project page](https://www.michaelspanico.com/projects/institutional-market-data-engine) for the hiring team narrative.
 2. Review [Institutional Market Data Engine Docs](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs) for the primary data-engineering proof shell.
 3. Use [Market Data Dashboard Docs](https://github.com/mp2123/Market-Data-Dashboard-Docs) for dashboard/source-governance context.
 4. Use [QuantStrat ML Docs](https://github.com/mp2123/QuantStrat-ML-Docs) for research, expected-move, volatility, and validation context.
@@ -84,11 +84,11 @@ This hub does not claim that Michael operates a public live trading system, brok
 
 This hub is live on GitHub Pages and intentionally remains Markdown-first.
 
-The root `index.md` gives GitHub Pages a clean entry point without adding a custom static-site build, theme complexity, or duplicate private content. The portfolio website remains the primary polished recruiter-facing web surface; this Pages site is the second-layer docs map for market-data, financial-data, and quant-adjacent proof shells.
+The root `index.md` gives GitHub Pages a clean entry point without adding a custom static-site build, theme complexity, or duplicate private content. The portfolio website remains the primary polished public-facing web surface; this Pages site is the second-layer docs map for market-data, financial-data, and quant-adjacent proof shells.
 
 This structure is deliberate:
 
 - GitHub README files stay useful inside the repo.
-- GitHub Pages gives recruiters a cleaner read-only docs landing page.
+- GitHub Pages gives hiring teams a cleaner read-only docs landing page.
 - The portfolio remains the main brand surface.
 - Private implementation and runtime materials stay out of the public layer.

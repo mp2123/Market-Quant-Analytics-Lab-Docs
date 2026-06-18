@@ -9,7 +9,7 @@ Start here:
 - [Market Data Dashboard Docs](https://github.com/mp2123/Market-Data-Dashboard-Docs)
 - [QuantStrat ML Docs](https://github.com/mp2123/QuantStrat-ML-Docs)
 
-## Recruiter Brief
+## Professional Brief
 
 This hub organizes one lane of Michael's public proof: Python market-data ingestion, SQLite-backed local data organization, dashboard review, source-governance discipline, expected-move and volatility research, and quant-adjacent validation work.
 
@@ -26,7 +26,7 @@ This is a navigation and boundary layer. It explains how the public proof shells
 | Institutional Market Data Engine | Python ingestion, SQLite storage, dashboard review, source-governance discipline. |
 | Market Data Dashboard | Streamlit-style dashboarding, observability, validation boundaries, private runtime separation. |
 | QuantStrat ML | Backtesting, expected-move research, volatility analytics, no-lookahead validation. |
-| Portfolio Website | Recruiter-facing narrative, sanitized proof pages, resume and project routing. |
+| Portfolio Website | Public-facing narrative, sanitized proof pages, resume and project routing. |
 
 ## Private Boundary
 

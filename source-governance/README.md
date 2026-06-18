@@ -9,7 +9,7 @@ This ecosystem separates public proof from private implementation.
 - synthetic or public-data fixtures;
 - diagrams that do not reveal secrets or local paths;
 - validation notes and privacy boundaries;
-- recruiter-facing project explanations.
+- public-facing project explanations.
 
 ## Private Sources
 

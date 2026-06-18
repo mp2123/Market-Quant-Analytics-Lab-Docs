@@ -17,6 +17,6 @@ Market Data Dashboard Docs support the broader dashboard and observability layer
 
 Private source code, runtime scripts, databases, broker/API state, Discord automation, webhook payloads, and local monitoring surfaces remain private.
 
-## Interview Framing
+## Professional Relevance
 
-Use this as dashboarding and source-governance proof: how to expose data for review without publishing credentials, account-specific records, or operational runtime state.
+This section demonstrates dashboarding and source-governance discipline: exposing data for review without publishing credentials, account-specific records, or operational runtime state.

@@ -17,6 +17,6 @@ QuantStrat ML Docs represent the research and validation lane inside the market 
 
 Private code, raw research artifacts, broker/API integrations, model registries, runtime state, and production QuantStrat workflows remain private.
 
-## Interview Framing
+## Professional Relevance
 
-Use this for quant-adjacent research maturity: volatility analytics, backtesting, validation discipline, and careful distinction between research artifacts and production trading claims.
+This section demonstrates quant-adjacent research maturity through volatility analytics, backtesting, validation discipline, and careful distinction between research artifacts and production trading claims.
