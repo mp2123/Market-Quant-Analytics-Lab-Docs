@@ -64,7 +64,7 @@ This hub does not claim that Michael operates a public live trading system, brok
 
 ## Suggested Reading Path
 
-1. Start with the [portfolio project page](https://www.michaelspanico.com/projects/institutional-market-data-engine) for the hiring team narrative.
+1. Start with the [portfolio project page](https://www.michaelspanico.com/projects/institutional-market-data-engine) for the main public narrative.
 2. Review [Institutional Market Data Engine Docs](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs) for the primary data-engineering proof shell.
 3. Use [Market Data Dashboard Docs](https://github.com/mp2123/Market-Data-Dashboard-Docs) for dashboard/source-governance context.
 4. Use [QuantStrat ML Docs](https://github.com/mp2123/QuantStrat-ML-Docs) for research, expected-move, volatility, and validation context.
@@ -89,6 +89,6 @@ The root `index.md` gives GitHub Pages a clean entry point without adding a cust
 This structure is deliberate:
 
 - GitHub README files stay useful inside the repo.
-- GitHub Pages gives hiring teams a cleaner read-only docs landing page.
+- GitHub Pages provides a cleaner read-only docs landing page.
 - The portfolio remains the main brand surface.
 - Private implementation and runtime materials stay out of the public layer.

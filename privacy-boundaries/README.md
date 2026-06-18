@@ -26,4 +26,4 @@ The value of this public docs hub depends on clear boundaries.
 
 ## Visitor Expectation
 
-Hiring teams should see a clear technical story, not the private runtime. The public proof is the architecture, validation discipline, privacy judgment, and project narrative.
+Public reviewers should see a clear technical story, not the private runtime. The public proof is the architecture, validation discipline, privacy judgment, and project narrative.
