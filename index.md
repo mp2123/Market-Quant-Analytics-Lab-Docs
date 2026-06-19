@@ -11,7 +11,7 @@ Start here:
 
 ## Professional Brief
 
-This hub organizes one lane of Michael's public proof: Python market-data ingestion, SQLite-backed local data organization, dashboard review, source-governance discipline, expected-move and volatility research, and quant-adjacent validation work.
+This hub organizes one market-data proof lane: Python market-data ingestion, SQLite-backed local data organization, dashboard review, source-governance discipline, expected-move and volatility research, and quant-adjacent validation work.
 
 The point is not to claim a live trading platform. The point is to show practical financial-data curiosity, analytics engineering habits, dashboard judgment, and careful separation between public documentation and private runtime state.
 
