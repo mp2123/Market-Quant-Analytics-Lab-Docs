@@ -31,8 +31,8 @@ The lightweight GitHub Pages landing page for this hub is:
 | Institutional Market Data Engine Docs | Primary market-data engineering proof shell: ingestion, SQLite storage, dashboard review, and public/private boundary. | [Open repo](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs) |
 | Market Data Dashboard Docs | Dashboard and source-governance proof shell: Streamlit review, market-data observability, validation boundaries, and private runtime separation. | [Open repo](https://github.com/mp2123/Market-Data-Dashboard-Docs) |
 | QuantStrat ML Docs | Research and validation proof shell: backtesting, options/volatility analytics, expected-move research, no-lookahead discipline, and model evaluation boundaries. | [Open repo](https://github.com/mp2123/QuantStrat-ML-Docs) |
-| Portfolio Website Docs | Public docs shell for the private portfolio implementation and public-facing website architecture. | [Open repo](https://github.com/mp2123/Portfolio-Website-Docs) |
-| Live portfolio | Public-facing narrative layer that explains the projects without exposing private implementation details. | [Open site](https://www.michaelspanico.com/projects/institutional-market-data-engine) |
+| Portfolio Website Docs | Public docs shell for the private portfolio implementation and website architecture. | [Open repo](https://github.com/mp2123/Portfolio-Website-Docs) |
+| Live portfolio | Project website overview that explains the work without exposing private implementation details. | [Open site](https://www.michaelspanico.com/projects/institutional-market-data-engine) |
 
 ## Sanitized Internal Source-Lineage Map
 
@@ -64,7 +64,7 @@ This hub does not claim that Michael operates a public live trading system, brok
 
 ## Suggested Reading Path
 
-1. Start with the [portfolio project page](https://www.michaelspanico.com/projects/institutional-market-data-engine) for the main public narrative.
+1. Start with the [portfolio project page](https://www.michaelspanico.com/projects/institutional-market-data-engine) for the main project overview.
 2. Review [Institutional Market Data Engine Docs](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs) for the primary data-engineering proof shell.
 3. Use [Market Data Dashboard Docs](https://github.com/mp2123/Market-Data-Dashboard-Docs) for dashboard/source-governance context.
 4. Use [QuantStrat ML Docs](https://github.com/mp2123/QuantStrat-ML-Docs) for research, expected-move, volatility, and validation context.

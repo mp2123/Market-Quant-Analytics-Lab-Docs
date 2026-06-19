@@ -26,7 +26,7 @@ This is a navigation and boundary layer. It explains how the public proof shells
 | Institutional Market Data Engine | Python ingestion, SQLite storage, dashboard review, source-governance discipline. |
 | Market Data Dashboard | Streamlit-style dashboarding, observability, validation boundaries, private runtime separation. |
 | QuantStrat ML | Backtesting, expected-move research, volatility analytics, no-lookahead validation. |
-| Portfolio Website | Public-facing narrative, sanitized proof pages, resume and project routing. |
+| Portfolio Website | Project overview, sanitized proof pages, resume and project routing. |
 
 ## Private Boundary
 
